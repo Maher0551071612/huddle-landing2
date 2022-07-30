@@ -1,0 +1,126 @@
+
+@media (max-width:375px){
+body { background-color: #eee;
+    }
+
+   .container {  background-color: hsl(257, 40%, 49%);
+                 box-shadow: 0px 5px 15px 0px black;
+                 width: 300px;height: 700px;
+                 margin-left: 5px;
+                 margin-right: 12.5px;
+                 margin-top: 20px;
+                } 
+
+.head { margin-left: 40px;
+        margin-top: 0px;
+        display: inline-block;}
+
+ .logo { margin-top: -10px;
+         margin-left:-12px ;
+         width:100px ;
+         height:100px ;}       
+
+        
+        }
+.top { font-family: 'Poppins', sans-serif;
+       color:white;
+       font-size: 20px;
+       font-weight:700;
+       margin-top: 10px;
+       margin-left: 20px;
+       display: inline-block;
+       position: absolute;
+ }
+
+ .fa-solid {color:white;
+            }
+.fa-brands { color: white;width: 50px;}
+
+
+.one { margin-left: 0px;
+       margin-top: -94px;
+       width: 300px;
+       }
+
+.two { margin-left: -270px;
+       margin-top: 5px;
+       width: 240px;
+        position: absolute;}
+
+  h1 { color: white;
+       font-family: 'Poppins', sans-serif;
+       font-size: 20px;
+       margin-left: 20px;
+       margin-right: 20px;
+       text-align: center;
+       font-weight: 600;}  
+      
+      
+p { color: white;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    }
+
+
+.button { width: 200px;
+          height: 27px;
+          margin-left: 50px;
+          margin-top: 20px;
+          padding-top: 5px;
+          background-color: white;
+          text-align: center;
+          border-radius: 20px;
+          font-family: 'Poppins', sans-serif;
+          font-weight: 400;
+          font-size: 13px;
+          color:hsl(257, 40%, 49%);
+          box-shadow: 0px 0px 2px 0px black;
+
+       
+       }
+
+
+    .social { width: 200px;
+              height: 40px;
+              background-color: hsl(257, 40%, 49%);;
+              margin-left: 50px;
+              margin-top: 100px;}   
+          
+          
+
+.fa-brands { color: white;
+             margin-left: 5.5px;
+             margin-top: 5px;
+             
+             }
+
+  .facebook{ width: 25px;
+             height: 25px;
+             margin-left: 50px;
+             display: inline-block;
+             margin-top: 5px;
+             border:1px solid white;
+             border-radius: 50%;
+}          
+
+.twitter {width: 25px;
+          height: 25px;
+          margin-left: 0px;
+          display: inline-block;
+          margin-top: 0px;
+          border:1px solid white;
+          border-radius: 50%;
+          }
+
+.insta {width: 25px;
+        height: 25px;
+        margin-left: 0px;
+        display: inline-block;
+        margin-top: 0px;
+        border:1px solid white;
+        border-radius: 50%;
+}          }
